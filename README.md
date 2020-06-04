@@ -1,0 +1,4 @@
+# QuadrotorSimulation
+四旋翼仿真，Matlab simmechanics
+采用simmechanics对四旋翼进行动力学仿真
+使用s-function编写控制器代码
